@@ -40,11 +40,16 @@ The project includes a production-ready prediction function. By inputting proper
 *   **Input:** 2 Beds, 2 Baths, 1200 sqft, Apartment, Furnished, Abu Dhabi, Yas Island.
 *   **Predicted Rent:** `~100,421 AED`
 ## 📂 Repository Structure
-└── dubai_prop.ipynb # Full EDA, Cleaning, and ML Pipeline
+
+├── data/
+
+│ └── dubai_properties.csv # full dataset
+
+├── dubai_prop.ipynb # Full EDA, Cleaning, and ML Pipeline
 
 ├── requirements.txt # List of Python dependencies
 
-## :gear: Installation & Setup
+## ⚙️ Installation & Setup
 To run this project locally:
 
 1. Clone the repository: git clone https://github.com/jeez-grammer/Dubai-Real-Estate-Price-Predictor-A-ML-Analysis.git
