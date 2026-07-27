@@ -1,14 +1,14 @@
-# :emoji::emoji: Dubai Real Estate Rental Price Predictor
+# 🇦🇪 Dubai Real Estate Rental Price Predictor
 
-## :pin: Project Overview
+## 📍 Project Overview
 This project implements a machine learning pipeline to predict annual rental prices for properties across the UAE (Dubai and Abu Dhabi). By analyzing property features and locations, the model provides a data-driven estimate of market rental values.
 
-### :bullseye: Business Goal
+### 🎯 Business Goal
 The objective is to transition from descriptive analytics to **predictive analytics**. This tool allows property owners and agents to determine fair market value based on real-world data, reducing the risk of underpricing or overpricing properties.
 
 ---
 
-## :emoji: Technical Pipeline
+## 🤖 Technical Pipeline
 
 ### 1. Data Cleaning & Preprocessing
 To ensure high model accuracy and prevent bias, the following preprocessing steps were implemented:
@@ -33,7 +33,7 @@ I compared a baseline model against a high-performance ensemble model to determi
 
 ---
 
-## :rocket: Prediction Capability
+## 🚀 Prediction Capability
 The project includes a production-ready prediction function. By inputting property specifications, the model outputs an estimated annual rent.
 
 **Example Prediction:**
