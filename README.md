@@ -17,6 +17,8 @@ To ensure high model accuracy and prevent bias, the following preprocessing step
     *   **One-Hot Encoding:** Converted categorical variables (`Property Type`, `Furnishing`, `City`, `Location`) into numerical formats.
     *   **Feature Scaling:** Utilized `StandardScaler` to normalize numerical features (Beds, Baths, Area), ensuring the model treats all features with equal importance.
 
+<img width="862" height="548" alt="Screenshot 2026-07-28 at 2 17 23 PM" src="https://github.com/user-attachments/assets/9b1b986f-210b-42d1-b6fb-347da2d01bca" />
+
 ### 2. Model Development & Evaluation
 I compared a baseline model against a high-performance ensemble model to determine the best predictive approach:
 
@@ -30,6 +32,8 @@ I compared a baseline model against a high-performance ensemble model to determi
 | **Random Forest** | **~19,796 AED** | **0.8867** |
 
 **Key Result:** The Random Forest model significantly outperformed the baseline, explaining nearly **89% of the variance** in rental prices.
+
+<img width="860" height="548" alt="Screenshot 2026-07-28 at 2 19 28 PM" src="https://github.com/user-attachments/assets/40c21886-7fab-4c05-8864-849a0a3771b0" />
 
 ---
 
