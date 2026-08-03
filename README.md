@@ -66,4 +66,4 @@ To run this project locally:
 ---
 
 **Developed by Nelson Viernes**
-*Data Science Portfolio Project*
+*Database Administrator*
