@@ -47,22 +47,29 @@ The project includes a production-ready prediction function. By inputting proper
 ---
 
 ## 📂 Repository Structure
-
+```text
 ├── data/
-
 │ └── dubai_properties.csv # full dataset
-
 ├── dubai_prop.ipynb # Full EDA, Cleaning, and ML Pipeline
-
 ├── requirements.txt # List of Python dependencies
+```
 
 ## ⚙️ Installation & Setup
 To run this project locally:
 
-1. Clone the repository: git clone https://github.com/jeez-grammer/Dubai-Real-Estate-Price-Predictor-A-ML-Analysis.git
-2. Install dependencies: pip install -r requirements.txt
-3. Launch the notebook: jupyter notebook dubai_prop.ipynb or open dubai_prop.ipynb to just copy and paste the codes in each cell.
-   
+**1. Clone the repository** 
+```bash
+git clone https://github.com/jeez-grammer/Dubai-Real-Estate-Price-Predictor-A-ML-Analysis.git
+```
+**2. Install dependencies** 
+```bash
+pip install -r requirements.txt
+```
+**3. Launch the notebook**
+```bash
+jupyter notebook dubai_prop.ipynb or open dubai_prop.ipynb to just copy and paste the codes in each cell.
+```
+
 ---
 
 **Developed by Nelson Viernes**  
