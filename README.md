@@ -65,5 +65,5 @@ To run this project locally:
    
 ---
 
-**Developed by Nelson Viernes**
-*Database Administrator*
+**Developed by Nelson Viernes**  
+*Data Administrator*
