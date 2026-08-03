@@ -65,5 +65,11 @@ To run this project locally:
    
 ---
 
+## 🌐 Data Source
+The raw data used for this analysis is sourced from the official United Arab Emirates open data portal:
+* **Dataset Engine:** https://www.kaggle.com/datasets/rosariomc/nuclear-power-generation-1965-2025
+
+---
+
 **Developed by Nelson Viernes**  
 *Data Administrator*
